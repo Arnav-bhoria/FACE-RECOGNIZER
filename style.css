@@ -1,0 +1,28 @@
+.heading{
+    width: 70%;
+}
+body{
+    background-color: aqua;
+}
+.name_of_objects{
+    color: red;
+    font-size: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+hr{
+    height: 2px;
+    width: 80%;
+    background-color: black;
+  
+}
+.header{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    color:green;
+    font-weight: bold;
+}
+label{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 18px;
+    color:green;
+}
